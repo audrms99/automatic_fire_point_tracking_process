@@ -49,14 +49,6 @@
 - 통신: Socket
 - SMS: Coolsms API
 
-## 설치 및 실행
-
-1. 필요한 패키지 설치
-
-```bash
-pip install -r requirements.txt
-```
-
 2. 설정 파일 생성
 
 - `config.example.py`를 `config.py`로 복사하고 필요한 설정 입력
